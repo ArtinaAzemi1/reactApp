@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './index.js'
 import React from 'react';
-import ViewStudent from "views/ViewStudent.js";
 import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
+
 
 /*function App() {
 
